@@ -7,4 +7,6 @@
  2.There are 3 entries provided first two entries are Currency Code of Country.
  
  3.File:GUI.py---->Consists of code for the GUI application made using Tkinter.
+ 
+ 4.For different countries currency code:CURRENCY CODE
   
